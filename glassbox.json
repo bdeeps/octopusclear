@@ -1,0 +1,109 @@
+{
+  "slug": "octopusclear",
+  "box": 210,
+  "date": "2026-11-13",
+  "title": "OctopusClear",
+  "question": "How does an octopus change color?",
+  "hook": "An octopus can repaint its whole body in a fraction of a second. Its skin is a screen of thousands of tiny pigment bags, each pulled open by its own ring of muscles on orders from the brain. Fire the nerves and watch the pixels open.",
+  "thumbText": "HOW AN OCTOPUS CHANGES COLOUR",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "octopus",
+    "colour change",
+    "camouflage",
+    "chromatophore",
+    "iridophore",
+    "leucophore",
+    "papillae",
+    "cephalopod",
+    "mimic octopus",
+    "blue-ringed octopus",
+    "CMFRI",
+    "animal sentience",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Eight arms and a living screen",
+      "text": "A common octopus has a soft mantle, eight sucker-lined arms, a siphon, slit-pupil eyes and about 500 million nerve cells, two-thirds of them in its arms. Its skin stacks pigment sacs over mirror plates, white cells and muscles that raise bumps."
+    },
+    {
+      "title": "Pixels with muscles",
+      "text": "Each chromatophore is an elastic bag of yellow, red or brown pigment ringed by radial muscles wired to the brain. When the nerves fire, the muscles pull it open in a tenth to a third of a second; when they stop, it springs shut. A chameleon’s crystal cells take a minute or two."
+    },
+    {
+      "title": "Three disguises, and some acts",
+      "text": "Most camouflage is uniform, mottle or disruptive, chosen from the size, contrast and edges of things nearby. Octopuses also masquerade as weed or rock, and the mimic octopus of Indonesia impersonates lionfish, flatfish and sea snakes."
+    },
+    {
+      "title": "Colour-blind, yet colour-matching",
+      "text": "Octopus eyes have one kind of light sensor, so they should be colour-blind. Ideas include light-sensing skin, colour pulled from blur by the odd pupil, and matching brightness and pattern alone. Nobody knows yet."
+    },
+    {
+      "title": "Cousins, catches and care",
+      "text": "Cuttlefish and squid use the same muscle-driven cells. India lands about two lakh tonnes of cephalopods a year, mostly squid and cuttlefish. The blue-ringed octopus, found in Indian waters, must never be touched, and UK law now recognises cephalopods as sentient."
+    },
+    {
+      "title": "How we found out",
+      "text": "Aristotle saw octopuses match stones; Sangiovanni named the chromatophores in 1819; J. Z. Young mapped the octopus brain; Hanlon and Messenger decoded the patterns; and engineers now build robot skins that copy them."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Chromatophore",
+      "def": "In cephalopods, an organ made of an elastic pigment sac, a ring of radial muscles and their nerves."
+    },
+    {
+      "term": "Radial muscle",
+      "def": "One of the spoke-like muscles that pull a chromatophore sac open when its nerve fires."
+    },
+    {
+      "term": "Iridophore",
+      "def": "A cell with stacks of thin plates that reflect one colour by interference."
+    },
+    {
+      "term": "Leucophore",
+      "def": "A white cell that scatters all colours of light equally."
+    },
+    {
+      "term": "Papilla",
+      "def": "A skin bump that muscles raise or flatten to change texture."
+    },
+    {
+      "term": "Disruptive pattern",
+      "def": "Bold patches and lines that break up an animal’s outline."
+    },
+    {
+      "term": "Masquerade",
+      "def": "Looking like an object, such as a rock or seaweed, instead of the background."
+    },
+    {
+      "term": "Photoreceptor",
+      "def": "A light-sensing cell. Octopus eyes have only one type."
+    },
+    {
+      "term": "Sentience",
+      "def": "The capacity to have feelings such as pain and pleasure."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "octopusclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

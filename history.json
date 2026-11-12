@@ -1,0 +1,790 @@
+{
+  "title": "The history of octopus colour",
+  "tagline": "From Aristotle’s stone-coloured octopus to robot skins: 2,400 years of working out how a body becomes a screen.",
+  "intro": "Aristotle saw octopuses match the stones around them. It took microscopes to find the colour organs, electron microscopes to see their muscles, and a lifetime of brain mapping to trace the nerves that drive them. Today biologists test how octopuses choose disguises, wonder how a colour-blind animal matches colour, and engineers copy the skin.",
+  "eras": [
+    {
+      "id": "watch",
+      "name": "Watching and naming",
+      "from": -400,
+      "to": 1900,
+      "color": "#c49bff",
+      "summary": "Ancient observers describe octopus camouflage, and the colour organs get a name."
+    },
+    {
+      "id": "organs",
+      "name": "Organs, nerves and mirrors",
+      "from": 1900,
+      "to": 1995,
+      "color": "#ffb547",
+      "summary": "Microscopes reveal muscles, nerves and mirror plates, and the octopus brain is mapped."
+    },
+    {
+      "id": "patterns",
+      "name": "Reading the patterns",
+      "from": 1996,
+      "to": 2011,
+      "color": "#5ce1a9",
+      "summary": "Field and lab studies sort camouflage into a few types and uncover mimicry."
+    },
+    {
+      "id": "skin",
+      "name": "Seeing skin and robot skins",
+      "from": 2012,
+      "to": 2021,
+      "color": "#8ef0ff",
+      "summary": "Skin that senses light, the octopus genome, and machines that copy cephalopod skin."
+    },
+    {
+      "id": "care",
+      "name": "Feelings, fisheries and care",
+      "from": 2021,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Science and law recognise sentience, and India counts its octopus species and catch."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "watch",
+      "art": "scroll",
+      "key": true,
+      "title": "An octopus that matches the stones",
+      "who": "Aristotle",
+      "where": "Lesbos and Athens",
+      "country": "Greece",
+      "text": "In his History of Animals, Aristotle wrote that the octopus hunts by changing its colour to look like the stones next to it, and that it does the same when it is alarmed. He also described cuttlefish changing colour.",
+      "why": "It is the first written account of cephalopod camouflage, and it was right.",
+      "box": "history",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1819,
+      "date": "1819",
+      "era": "watch",
+      "art": "lens",
+      "key": true,
+      "title": "The colour carriers get a name",
+      "who": "Giosuè Sangiovanni",
+      "where": "Naples",
+      "country": "Italy",
+      "text": "The Italian naturalist Sangiovanni described the small coloured spots in cephalopod skin that open and close, in an Italian science journal. His name for them, cromoforo, became chromatophore, “colour carrier”.",
+      "why": "It gave the colour organs a name that biologists still use for colour cells in many animals.",
+      "box": "history",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "organs",
+      "art": "muscle",
+      "key": true,
+      "title": "Inside a chromatophore organ",
+      "who": "Richard Cloney and Ernst Florey",
+      "where": "Seattle",
+      "country": "USA",
+      "text": "Using the electron microscope, Cloney and Florey described the fine structure of cephalopod chromatophore organs: an elastic pigment sac, the radial muscles around it, and their nerves.",
+      "why": "It showed that each colour spot is a little organ with muscles, unlike the colour cells of fish and lizards.",
+      "box": "pixels",
+      "sources": [
+        4,
+        9
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "organs",
+      "art": "brain",
+      "key": true,
+      "title": "A map of the octopus brain",
+      "who": "J. Z. Young",
+      "where": "London",
+      "country": "UK",
+      "text": "After decades of work, much of it at the Naples zoological station, the British biologist J. Z. Young published a 690-page atlas of the nervous system of Octopus vulgaris. A reviewer called it the most complete description of any invertebrate nervous system so far.",
+      "why": "It gave everyone a map of the lobes that see, learn and drive the skin.",
+      "box": "anatomy",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "organs",
+      "art": "colour",
+      "key": false,
+      "title": "Mirrors in octopus skin",
+      "who": "Sharon Brocco and Richard Cloney",
+      "where": "Seattle",
+      "country": "USA",
+      "text": "Studying the giant Pacific octopus, Brocco and Cloney found reflector cells carrying stacks of about 11 protein plates, each about 90 nanometres thick, with even gaps between them. They calculated that such a stack should reflect blue-green light, as seen in the living animal.",
+      "why": "It explained the octopus’s blue-green shimmer as thin-film interference, like a soap bubble.",
+      "box": "pixels",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "1996",
+      "era": "patterns",
+      "art": "word",
+      "key": false,
+      "title": "A book on cephalopod behaviour",
+      "who": "Roger Hanlon and John Messenger",
+      "where": "Woods Hole and Cambridge",
+      "country": "USA and UK",
+      "text": "Hanlon and Messenger wrote Cephalopod Behaviour, which describes how octopus, cuttlefish and squid build body patterns from chromatophores, reflectors, skin texture and posture. A second edition followed later (dates from the publisher’s catalogue; first edition year from memory).",
+      "why": "It became the standard guide to how and why cephalopods change their looks.",
+      "box": "camo",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "patterns",
+      "art": "eye",
+      "key": true,
+      "title": "An octopus that impersonates",
+      "who": "Mark Norman, Julian Finn and Tom Tregenza",
+      "where": "Sulawesi and Bali",
+      "country": "Indonesia",
+      "text": "Divers filmed a long-armed octopus, new to science, foraging on open sand by day. It impersonated venomous animals: a banded sole, a lionfish and a banded sea snake, and seemed to choose the act to suit the threat.",
+      "why": "It showed an animal switching between several disguises at will: dynamic mimicry.",
+      "box": "camo",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "patterns",
+      "art": "neuron",
+      "key": false,
+      "title": "The chromatophore, explained",
+      "who": "John Messenger",
+      "where": "Cambridge",
+      "country": "UK",
+      "text": "Messenger’s long review explained cephalopod chromatophores as neuromuscular organs, not controlled by hormones. Radial muscles pull the elastic sac open, and it shrinks back when they relax. In Octopus vulgaris over half a million brain cells drive them.",
+      "why": "It is still the standard account of how the pixels work.",
+      "box": "pixels",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "era": "patterns",
+      "art": "palette",
+      "key": true,
+      "title": "Three ways to hide",
+      "who": "Roger Hanlon",
+      "where": "Woods Hole",
+      "country": "USA",
+      "text": "Hanlon argued that the huge variety of cephalopod camouflage comes down to three pattern types: uniform, mottle and disruptive. A 2009 paper defined them and found that the size, contrast and edges of nearby objects decide which one is used.",
+      "why": "It turned a bewildering skill into rules that can be tested.",
+      "box": "camo",
+      "sources": [
+        10,
+        12
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "era": "patterns",
+      "art": "colour",
+      "key": false,
+      "title": "Pigment filters over mirrors",
+      "who": "Lydia Mäthger and Roger Hanlon",
+      "where": "Woods Hole",
+      "country": "USA",
+      "text": "Measuring squid skin with a spectrometer, Mäthger and Hanlon showed that brown, red and yellow chromatophores filter the light reflected by the iridophores beneath, so three pigments and one kind of mirror cover the whole spectrum.",
+      "why": "It showed how layers of skin combine into so many colours.",
+      "box": "pixels",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "patterns",
+      "art": "waterdrop",
+      "key": false,
+      "title": "White cells and switchable mirrors",
+      "who": "Lydia Mäthger, Eric Denton, Justin Marshall and Roger Hanlon",
+      "where": "Woods Hole",
+      "country": "USA",
+      "text": "A review of structural colour in cephalopods described white leucophores in octopus and cuttlefish, mostly missing in squid, and squid iridophores that nerves can switch on and off.",
+      "why": "It sorted out which reflecting cells each cephalopod has.",
+      "box": "cousins",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012",
+      "era": "skin",
+      "art": "eye",
+      "key": false,
+      "title": "How the blue rings flash",
+      "who": "Lydia Mäthger and colleagues",
+      "where": "Woods Hole",
+      "country": "USA",
+      "text": "The blue rings of the blue-ringed octopus turned out to be inert mirror stacks. Muscles under direct nerve control hide them or pull the skin aside to flash about 60 rings in a warning display.",
+      "why": "It explained one of the sea’s most famous warnings.",
+      "box": "people",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "12 August 2012",
+      "era": "skin",
+      "art": "boat",
+      "key": true,
+      "title": "A blue-ringed octopus in Chennai",
+      "who": "Indian fisheries scientists",
+      "where": "Kasimedu fishing harbour, Chennai",
+      "country": "India",
+      "text": "A blue-ringed octopus, Hapalochlaena nierstraszi, was recorded for the first time in Indian waters among the catch at Kasimedu fishing harbour in Chennai.",
+      "why": "It means people on Indian coasts need to know not to handle small octopuses.",
+      "box": "people",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "August 2012",
+      "era": "skin",
+      "art": "chip",
+      "key": false,
+      "title": "Soft robots that change colour",
+      "who": "Stephen Morin, George Whitesides and team",
+      "where": "Cambridge, Massachusetts",
+      "country": "USA",
+      "text": "A Harvard team gave soft rubber robots networks of tiny channels filled with coloured or heated fluids, so they could camouflage or signal, a step toward cephalopod-like skins for machines.",
+      "why": "It was one of the first machines to borrow the cephalopod idea of changeable skin.",
+      "box": "history",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014",
+      "era": "skin",
+      "art": "pixels",
+      "key": true,
+      "title": "A sheet that matches what it sees",
+      "who": "Cunjiang Yu, John Rogers, Roger Hanlon and team",
+      "where": "Urbana-Champaign and Houston",
+      "country": "USA",
+      "text": "Engineers built a flexible sheet of light sensors and colour-changing pixels. Each pixel switched between black and white to match the pattern around it, with no one telling it what to do, in about a second.",
+      "why": "It copied the octopus plan of sensors, control and pixels in one thin skin.",
+      "box": "history",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "August 2015",
+      "era": "skin",
+      "art": "cell",
+      "key": false,
+      "title": "The octopus genome",
+      "who": "Caroline Albertin and team",
+      "where": "Chicago, Okinawa and Berkeley",
+      "country": "USA and Japan",
+      "text": "The first octopus genome, from the California two-spot octopus, showed big families of genes for building nervous systems, and hundreds of cephalopod genes switched on in the skin, suckers and brain.",
+      "why": "It opened the genetics of a brain-and-skin system unlike any other.",
+      "box": "anatomy",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "May 2015",
+      "era": "skin",
+      "art": "eye",
+      "key": true,
+      "title": "Skin that responds to light",
+      "who": "Desmond Ramirez and Todd Oakley",
+      "where": "Santa Barbara",
+      "country": "USA",
+      "text": "Pieces of octopus skin, cut off from the eyes and brain, opened their chromatophores in light, fastest in blue light, with a peak near 480 nm. The skin held the same light-sensing opsin as the eye.",
+      "why": "It raised the idea that octopus skin helps sense the light it matches.",
+      "box": "camo",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "skin",
+      "art": "cell",
+      "key": false,
+      "title": "Opsins inside the colour organs",
+      "who": "Alexandra Kingston, Thomas Cronin and colleagues",
+      "where": "Baltimore and Woods Hole",
+      "country": "USA",
+      "text": "In squid and cuttlefish, the light-catching proteins of the eye were found in chromatophores themselves, including their muscles.",
+      "why": "It suggested the colour organs may sense light directly.",
+      "box": "camo",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "July 2016",
+      "era": "skin",
+      "art": "lens",
+      "key": false,
+      "title": "Colour from blur?",
+      "who": "Alexander Stubbs and Christopher Stubbs",
+      "where": "Berkeley and Cambridge, Massachusetts",
+      "country": "USA",
+      "text": "A father-and-son team used a computer model to suggest that cephalopods might pull colour information out of blur, because each colour focuses at a different distance and their off-centre pupils make this stronger. It has not been shown in a living animal, and other scientists questioned it.",
+      "why": "It offered one possible answer to the colour-blind paradox.",
+      "box": "camo",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "skin",
+      "art": "chip",
+      "key": false,
+      "title": "The Octobot",
+      "who": "Michael Wehner, Robert Wood, Jennifer Lewis and team",
+      "where": "Cambridge, Massachusetts",
+      "country": "USA",
+      "text": "Harvard engineers built the first robot made entirely of soft materials, shaped like a small octopus and powered by a chemical reaction.",
+      "why": "It showed how far soft, octopus-inspired machines could go.",
+      "box": "history",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "October 2017",
+      "era": "skin",
+      "art": "skinlayers",
+      "key": true,
+      "title": "Robot skin that grows bumps",
+      "who": "James Pikul, Robert Shepherd, Roger Hanlon and team",
+      "where": "Ithaca and Woods Hole",
+      "country": "USA",
+      "text": "Inspired by papillae, a Cornell team made flat silicone skins with a mesh inside that inflate into programmed 3D shapes such as stones and plants.",
+      "why": "It copied the octopus’s texture trick, not just its colour.",
+      "box": "history",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "2018",
+      "era": "skin",
+      "art": "muscle",
+      "key": false,
+      "title": "How papillae hold their shape",
+      "who": "Paloma Gonzalez-Bellido, Trevor Wardill and colleagues",
+      "where": "Woods Hole",
+      "country": "USA",
+      "text": "Work on cuttlefish found the nerves that raise and lower skin papillae, and a mix of muscles that can keep them up for a long time with little effort, perhaps by a catch-like lock.",
+      "why": "It explained how bumpy camouflage can last without tiring the animal.",
+      "box": "pixels",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "2021",
+      "era": "skin",
+      "art": "muscle",
+      "key": false,
+      "title": "Muscles that open sacs in a fraction of a second",
+      "who": "Stephen Senft, Alan Kuzirian and Roger Hanlon",
+      "where": "Woods Hole",
+      "country": "USA",
+      "text": "A close look at squid chromatophores described rosettes of radial muscles that widen or relax each sac in 100 to 300 milliseconds, and found that muscles of neighbouring organs can link up.",
+      "why": "It pinned down how fast the pixels move.",
+      "box": "pixels",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "19 November 2021",
+      "era": "care",
+      "art": "person",
+      "key": true,
+      "title": "Evidence that octopuses feel",
+      "who": "Jonathan Birch and colleagues",
+      "where": "London School of Economics",
+      "country": "UK",
+      "text": "A review for the UK government of over 300 studies found strong scientific evidence that cephalopod molluscs and decapod crustaceans are sentient.",
+      "why": "It changed how governments think about octopuses, squid and crabs.",
+      "box": "people",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "28 April 2022",
+      "era": "care",
+      "art": "scales",
+      "key": true,
+      "title": "Cephalopods in animal welfare law",
+      "who": "UK Parliament",
+      "where": "London",
+      "country": "UK",
+      "text": "The Animal Welfare (Sentience) Act 2022 received Royal Assent. It applies to vertebrates, decapod crustaceans and cephalopod molluscs, and set up an Animal Sentience Committee.",
+      "why": "It was one of the first national laws to name octopuses as sentient.",
+      "box": "people",
+      "sources": [
+        26,
+        26
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "care",
+      "art": "flask",
+      "key": false,
+      "title": "Counting India’s octopuses by DNA",
+      "who": "CMFRI scientists",
+      "where": "Kochi",
+      "country": "India",
+      "text": "Using DNA barcodes, a study of catches on India’s south-west coast identified four Amphioctopus species, two Cistopus species, Octopus vulgaris and Callistoctopus macropus.",
+      "why": "Knowing which species are caught is the first step to managing the fishery.",
+      "box": "people",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024",
+      "era": "care",
+      "art": "heart",
+      "key": false,
+      "title": "Colour change is expensive",
+      "who": "Sofie Sonner and Kirt Onthank",
+      "where": "Walla Walla",
+      "country": "USA",
+      "text": "Measuring the oxygen used by octopus skin, a team estimated that running every chromatophore flat out costs nearly as much energy as the whole resting octopus.",
+      "why": "It may explain why octopuses spend so much time hiding in dens and at night.",
+      "box": "pixels",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024",
+      "era": "care",
+      "art": "boat",
+      "key": false,
+      "title": "India’s cephalopod catch",
+      "who": "ICAR-CMFRI",
+      "where": "Kochi",
+      "country": "India",
+      "text": "CMFRI’s yearly count of marine landings listed about 95,000 tonnes of squid, 97,000 tonnes of cuttlefish and 13,000 tonnes of octopus for 2024 (figures read in search summaries of the report).",
+      "why": "It shows octopus is a small but valued part of India’s seafood.",
+      "box": "people",
+      "sources": [
+        29
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First written account of octopus camouflage",
+      "value": "c. 350 BCE",
+      "who": "Aristotle, Greece"
+    },
+    {
+      "label": "Colour organs named",
+      "value": "1819",
+      "who": "Giosuè Sangiovanni, Italy"
+    },
+    {
+      "label": "Octopus nervous system atlas",
+      "value": "1971",
+      "who": "J. Z. Young, UK"
+    },
+    {
+      "label": "Mimic octopus described",
+      "value": "2001",
+      "who": "Norman, Finn and Tregenza, Indonesia"
+    },
+    {
+      "label": "Blue-ringed octopus recorded in India",
+      "value": "2012",
+      "who": "Kasimedu, Chennai"
+    },
+    {
+      "label": "Octopus genome sequenced",
+      "value": "2015",
+      "who": "Albertin and team"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher and naturalist",
+      "from": "Greece",
+      "note": "Described octopuses changing colour to match stones."
+    },
+    {
+      "name": "Giosuè Sangiovanni",
+      "life": "19th century",
+      "role": "Naturalist",
+      "from": "Italy",
+      "note": "Named the cephalopod colour organs in 1819."
+    },
+    {
+      "name": "J. Z. Young",
+      "life": "1907 – 1997",
+      "role": "Biologist",
+      "from": "UK",
+      "note": "Mapped the octopus nervous system in a 690-page atlas."
+    },
+    {
+      "name": "John Messenger",
+      "life": "20th century",
+      "role": "Biologist",
+      "from": "UK",
+      "note": "Wrote the standard review of how cephalopod chromatophores work."
+    },
+    {
+      "name": "Roger Hanlon",
+      "life": "20th–21st century",
+      "role": "Biologist",
+      "from": "USA",
+      "note": "Showed how cephalopods choose uniform, mottle and disruptive camouflage."
+    },
+    {
+      "name": "Lydia Mäthger",
+      "life": "21st century",
+      "role": "Biologist",
+      "from": "Germany, works in the USA",
+      "note": "Measured how pigments and reflectors combine, and how blue rings flash."
+    },
+    {
+      "name": "Mark Norman",
+      "life": "20th–21st century",
+      "role": "Marine biologist",
+      "from": "Australia",
+      "note": "Co-described the mimic octopus’s impersonations."
+    },
+    {
+      "name": "Jonathan Birch",
+      "life": "21st century",
+      "role": "Philosopher of science",
+      "from": "UK",
+      "note": "Led the review that found strong evidence of sentience in cephalopods."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "An octopus has about 500 million nerve cells, and about two-thirds of them are in its arms.",
+    "A chromatophore sac opens or closes in about a tenth to a third of a second.",
+    "Octopus eyes have just one kind of light sensor, yet octopuses match their backgrounds closely.",
+    "A blue-ringed octopus flashes about 60 blue rings as a warning.",
+    "Running every chromatophore at once costs an octopus nearly as much energy as resting."
+  ],
+  "sources": [
+    {
+      "title": "History of Animals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Animals"
+    },
+    {
+      "title": "Aristotle, History of Animals, book IX (D'Arcy Wentworth Thompson translation)",
+      "publisher": "Elpenor",
+      "url": "https://www.ellopos.net/elpenor/greek-texts/ancient-greece/aristotle/history-animals-c.asp?pg=39"
+    },
+    {
+      "title": "Chromatophore",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chromatophore"
+    },
+    {
+      "title": "Sereni E. 1930 (on the history of cephalopod chromatophore research)",
+      "publisher": "Biological Bulletin 59",
+      "url": "https://www.journals.uchicago.edu/doi/10.2307/1536813"
+    },
+    {
+      "title": "Cloney RA & Florey E. 1968. Ultrastructure of cephalopod chromatophore organs",
+      "publisher": "Zeitschrift für Zellforschung 89",
+      "url": "https://doi.org/10.1007/BF00347297"
+    },
+    {
+      "title": "Review of J. Z. Young, The Anatomy of the Nervous System of Octopus vulgaris (1971)",
+      "publisher": "Nature 236 (1972)",
+      "url": "https://www.nature.com/articles/236123a0"
+    },
+    {
+      "title": "Brocco SL & Cloney RA. 1980. Reflector cells in the skin of Octopus dofleini",
+      "publisher": "Cell and Tissue Research",
+      "url": "https://doi.org/10.1007/BF00234678"
+    },
+    {
+      "title": "Hanlon RT & Messenger JB. Cephalopod Behaviour",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/cephalopod-behaviour/"
+    },
+    {
+      "title": "Norman MD, Finn J & Tregenza T. 2001. Dynamic mimicry in an Indo-Malayan octopus",
+      "publisher": "Proceedings of the Royal Society B 268: 1755 (PMC1088805)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1088805/"
+    },
+    {
+      "title": "Messenger JB. 2001. Cephalopod chromatophores: neurobiology and natural history",
+      "publisher": "Biological Reviews 76: 473–528",
+      "url": "https://doi.org/10.1017/S1464793101005772"
+    },
+    {
+      "title": "Hanlon R. 2007. Cephalopod dynamic camouflage",
+      "publisher": "Current Biology 17: R400",
+      "url": "https://doi.org/10.1016/j.cub.2007.03.034"
+    },
+    {
+      "title": "Mäthger LM & Hanlon RT. 2007. Malleable skin coloration in cephalopods",
+      "publisher": "Cell and Tissue Research 329: 179",
+      "url": "https://doi.org/10.1007/s00441-007-0384-8"
+    },
+    {
+      "title": "Hanlon RT et al. 2009. Cephalopod dynamic camouflage: bridging the continuum between background matching and disruptive coloration",
+      "publisher": "Philosophical Transactions of the Royal Society B (PMC2674088)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2674088/"
+    },
+    {
+      "title": "Mäthger LM, Denton EJ, Marshall NJ & Hanlon RT. 2009. Mechanisms and behavioural functions of structural coloration in cephalopods",
+      "publisher": "Journal of the Royal Society Interface (PMC2706477)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2706477/"
+    },
+    {
+      "title": "Mäthger LM et al. 2012. How does the blue-ringed octopus (Hapalochlaena lunulata) flash its blue rings?",
+      "publisher": "Journal of Experimental Biology 215",
+      "url": "https://doi.org/10.1242/jeb.076869"
+    },
+    {
+      "title": "Rare occurrence of the blue ring octopus Hapalochlaena nierstraszi at Kasimedu, Chennai",
+      "publisher": "Indian Journal of Geo-Marine Sciences 48(1): 93–95, via ICAR KRISHI",
+      "url": "https://krishi.icar.gov.in/jspui/handle/123456789/25690"
+    },
+    {
+      "title": "Morin SA et al. 2012. Camouflage and display for soft machines",
+      "publisher": "Science 337: 828",
+      "url": "https://doi.org/10.1126/science.1222149"
+    },
+    {
+      "title": "Yu C et al. 2014. Adaptive optoelectronic camouflage systems with designs inspired by cephalopod skins",
+      "publisher": "PNAS 111: 12998 (PMC4246966)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4246966/"
+    },
+    {
+      "title": "Albertin CB et al. 2015. The octopus genome and the evolution of cephalopod neural and morphological novelties",
+      "publisher": "Nature 524 (PMC4795812)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4795812/"
+    },
+    {
+      "title": "Ramirez MD & Oakley TH. 2015. Eye-independent, light-activated chromatophore expansion (LACE) in the skin of Octopus bimaculoides",
+      "publisher": "Journal of Experimental Biology 218: 1513 (PMC4448664)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4448664/"
+    },
+    {
+      "title": "Kingston ACN et al. 2015. Visual phototransduction components in cephalopod chromatophores suggest dermal photoreception",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://doi.org/10.1242/jeb.117945"
+    },
+    {
+      "title": "Stubbs AL & Stubbs CW. 2016. Spectral discrimination in color blind animals via chromatic aberration and pupil shape",
+      "publisher": "PNAS 113: 8206 (PMC4961147)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4961147/"
+    },
+    {
+      "title": "Wehner M et al. 2016. An integrated design and fabrication strategy for entirely soft, autonomous robots",
+      "publisher": "Nature 536",
+      "url": "https://doi.org/10.1038/nature19100"
+    },
+    {
+      "title": "Pikul JH et al. 2017. Stretchable surfaces with programmable 3D texture morphing for synthetic camouflaging skins",
+      "publisher": "Science 358: 210",
+      "url": "https://doi.org/10.1126/science.aan5627"
+    },
+    {
+      "title": "Gonzalez-Bellido PT et al. 2018. Neural control of dynamic 3-dimensional skin papillae for cuttlefish camouflage",
+      "publisher": "iScience (PMC6059360)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6059360/"
+    },
+    {
+      "title": "Senft SL, Kuzirian AM & Hanlon RT. 2021. Networks of linked radial muscles could influence dynamic skin patterning of squid chromatophores",
+      "publisher": "Journal of Morphology",
+      "url": "https://doi.org/10.1002/jmor.21379"
+    },
+    {
+      "title": "Animal Welfare (Sentience) Act 2022: explanatory notes, policy background",
+      "publisher": "legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/22/notes/division/3/index.htm"
+    },
+    {
+      "title": "Animal Welfare (Sentience) Act 2022",
+      "publisher": "legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/22"
+    },
+    {
+      "title": "Integrated taxonomic approach for identification of octopus species from the southwest coast of India",
+      "publisher": "CMFRI eprints (Malacologia 64)",
+      "url": "https://eprints.cmfri.org.in/15991/"
+    },
+    {
+      "title": "Marine Fish Landings in India 2024",
+      "publisher": "ICAR-Central Marine Fisheries Research Institute",
+      "url": "https://eprints.cmfri.org.in/19094/"
+    },
+    {
+      "title": "Sonner SC & Onthank KL. 2024. High energetic cost of color change in octopuses",
+      "publisher": "PNAS 121 (PMC11621519)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11621519/"
+    },
+    {
+      "title": "Orvis J et al. 2022. The evolution of synaptic and cognitive capacity: insights from the nervous system transcriptome of Aplysia",
+      "publisher": "PNAS 119 (PMC9282427)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9282427/"
+    }
+  ]
+}
